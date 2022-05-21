@@ -60,7 +60,7 @@ Cuando un rodamiento presenta defectos durante la operación, la máquina o equi
 
 * Google. (2021). Welcome to Colab. 05/20/2022, de Google Cloud Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
 * NSK. (2004). Diagnóstico Rápido de Fallas en Rodamientos. 05/20/2022, de NSK Automation Sitio web: [Link](https://github.com/mizhac/failure_analysis/blob/master/Task1/documentos/nsk_bearing_doctor.pdf)
-* SKF.(2017).Daño de rodamientos y análisis de fallas, Sitio Web : [Link] (https://www.skf.com/binaries/pub201/Images/0901d196807d76f8-Bearing-failures---14219_2-ES-AR_tcm_201-297619.pdf)
+* SKF.(2017).Daño de rodamientos y análisis de fallas, Sitio Web : [Link](https://www.skf.com/binaries/pub201/Images/0901d196807d76f8-Bearing-failures---14219_2-ES-AR_tcm_201-297619.pdf)
 
 7. Anexos
 
