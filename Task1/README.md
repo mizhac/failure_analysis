@@ -20,7 +20,7 @@
 
 1. INTRODUCCION: 
 
-Cuando un rodamiento se danifica durante la operación, la máquina o equipo puede trabarse o presentar una mal operación por completo. De fallas prematuras de rodamientos o problemas inesperados, es importante ser capaz de identificar o prever la falla, para que se tomen las medidas preventivas. Generalmente, la inspección del rodamiento puede identificar las causas del problema. Frecuentemente, se atribuyen las causas a las fallas de lubricación, manejo inadecuado, selección errada del rodamiento, o descuido durante el proyecto del eje o alojamiento. Normalmente se puede determinar la causa cuando se considera las condiciones de operación del rodamiento antes de la falla, investigándose las condiciones de lubricación y instalación y aún, cuando se investiga cuidadosamente la parte danificada. Algunas veces los rodamientos se danifican o fallan rápida e inesperadamente. Una vez que la falla prematura es diferente de la falla por fatiga que ocurre por descamación, podemos separar la vida de los rodamientos en dos grupos: fallas prematuras y fallas normales por la fatiga del acero.
+Cuando un rodamiento presenta defectos durante la operación, la máquina o equipo puede disminuir su eficiencia durante el trabajo o detener la operación por completo. De fallas prematuras de rodamientos, es importante ser capaz de identificar el origen del problema, para que se tomen las medidas correctivas para disminuir las recurrencias. Generalmente, durante la inspección del rodamiento podemos encontrar indicios que nos señalaran que pudo haber sucedido. Frecuentemente, se atribuyen las fallas a problemas de lubricación, una manipulación inadecuada durante el montaje, selección errada del rodamiento, o descuido durante el proyecto del eje o alojamiento. Normalmente se puede determinar la causa, cuando se considera las condiciones de operación del rodamiento antes de la falla, examinando de manera minuciosa las zonas dañadas o que presentan anomalías. Es de suma importancia saber que la mayoría de rodamientos sobrevive a los equipos en que son instalados esto sucede en un 90% y en algunos casos son cambiados pro medidas preventivas 9.5 % y tan solo un 0.5 % de estos presentan defectos durante su funcionamiento según SKF, Por lo que una falla prematura debe ser motivo de investigación para poder optimizar el ciclo de vida útil de un rodamiento. Por lo que es importante mantener una monitorización adecuada de estos componentes.
 
 2. OBJETIVOS
 * Identificar los síntomas y causas de daños en rodamientos.
@@ -60,6 +60,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 
 * Google. (2021). Welcome to Colab. 05/20/2022, de Google Cloud Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
 * NSK. (2004). Diagnóstico Rápido de Fallas en Rodamientos. 05/20/2022, de NSK Automation Sitio web: [Link](https://github.com/mizhac/failure_analysis/blob/master/Task1/documentos/nsk_bearing_doctor.pdf)
+* SKF.(2017).Daño de rodamientos y análisis de fallas, Sitio Web : [Link] (https://www.skf.com/binaries/pub201/Images/0901d196807d76f8-Bearing-failures---14219_2-ES-AR_tcm_201-297619.pdf)
 
 7. Anexos
 
