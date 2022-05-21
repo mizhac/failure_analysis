@@ -33,22 +33,22 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 * Colaboratory Google
 
 4.  DESARROLLO
-    1. Programación con el software de Microsoft Excel:
+    1. Solución con el software de Microsoft Excel:
 
 
-        1. Identificación de las posibles causas de daños en los rodamientos de acuerdo con el documento Bearing Doctor NSK ([Tabla 1.0](#anexo1)) 
+        1. Identificación de las posibles causas de daños en los rodamientos de acuerdo con el documento Bearing Doctor NSK ([Tabla 1.0](#anexo1)) .
 
-        2. Conteo de las causas mediante el software Microsoft Excel, obteniendo los valores de frecuencias relativas mostrados en la tabla  ([Tabla 1.1](#anexo2)) 
+        2. Conteo de las causas mediante el software Microsoft Excel, obteniendo los valores de frecuencias relativas mostrados en la tabla  ([Tabla 1.1](#anexo2)) .
 
-        3. Obtenemos un gráfico de barras, para una mayor compresión de las causas más relevantes que producen daños a los rodamiento ([Imagen 1.0](#anexo4)) 
+        3. Obtenemos un gráfico de barras, para una mayor compresión de las causas más relevantes que producen daños a los rodamiento ([Imagen 1.0](#anexo4)) .
 
         4. Realizamos un cuadro de frecuencias relativas acumuladas ([Tabla 1.2](#anexo3))  para identificar, de acuerdo a Pareto, cuáles son nuestras causas que impactan más al daño de rodamientos, valiéndose al principio de la regla 80/20.
 
         5. Con los datos obtenidos anteriormente, obtenemos nuestro diagrama de Pareto ([Imagen 1.1](#anexo5)) .
 
-    2. Programación con el software Colaboratory de Google:
-        1. Link del archivo editable: https://colab.research.google.com/drive/1Ul8S_w9P0jXl4GR_hopKUdUbMTHdk5RV?usp=sharing
-        2. Link del repositorio en Github: https://github.com/mizhac/failure_analysis/blob/master/Task1/Analisis_de_fallas_tarea_1.ipynb
+    2. Solución con el software Colaboratory de Google:
+        1. Link del archivo editable: [Colab Google](https://colab.research.google.com/drive/1Ul8S_w9P0jXl4GR_hopKUdUbMTHdk5RV?usp=sharing)
+        2. Link del repositorio en Github: [Github Repository](https://github.com/mizhac/failure_analysis/blob/master/Task1/Analisis_de_fallas_tarea_1.ipynb)
 5. Conclusiones
     * asd
     * asdad
