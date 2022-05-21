@@ -59,7 +59,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 6. Bibliografía
 
 * Google. (2021). Welcome to Colab. 05/20/2022, de Google Cloud Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
-* NSK. (2004). Diagnóstico Rápido de Fallas en Rodamientos. 05/20/2022, de NSK Automation Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
+* NSK. (2004). Diagnóstico Rápido de Fallas en Rodamientos. 05/20/2022, de NSK Automation Sitio web: [Link](https://github.com/mizhac/failure_analysis/blob/master/Task1/documentos/nsk_bearing_doctor.pdf)
 
 7. Anexos
 
