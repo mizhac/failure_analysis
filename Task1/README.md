@@ -1,4 +1,4 @@
-![alt text](./imagenes/tecsup.jpg "Title")
+![alt text](./imagenes/tecsup_2.png "Title")
 
 # ANÁLISIS DE FALLAS DE COMPONENTES EN EQUIPO PESADO MÓVIL
 
