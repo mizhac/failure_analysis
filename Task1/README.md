@@ -48,7 +48,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 
     2. Solución con el software Colaboratory de Google:
         1. Link del archivo editable: [Colab Google](https://colab.research.google.com/drive/1Ul8S_w9P0jXl4GR_hopKUdUbMTHdk5RV?usp=sharing)
-        2. Link del repositorio en Github: [Github Repository](https://github.com/mizhac/failure_analysis/blob/master/Task1/Analisis_de_fallas_tarea_1.ipynb)
+        2. Link del repositorio en Github: [Github Repository](https://github.com/mizhac/failure_analysis/blob/master/Task1/soluciones/analisis_causa_raiz.ipynb)
 5. Conclusiones
     * asd
     * asdad
