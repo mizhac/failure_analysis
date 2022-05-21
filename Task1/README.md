@@ -1,4 +1,4 @@
-![alt text](./tecsup.jpg "Title")
+![alt text](./imagenes/tecsup.jpg "Title")
 
 # ANÁLISIS DE FALLAS DE COMPONENTES EN EQUIPO PESADO MÓVIL
 
@@ -178,8 +178,8 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 
 * <a name="anexo4"></a> Imagen 1.0
 
-![alt text](./resumen_causas.png "Resumen de causas")
+![alt text](./imagenes/resumen_causas.png "Resumen de causas")
 
 * <a name="anexo5"></a> Imagen 1.1 
 
-![alt text](./diagrama_pareto_excel.png "Diagrama de Pareto")
+![alt text](./imagenes/diagrama_pareto_excel.png "Diagrama de Pareto")
