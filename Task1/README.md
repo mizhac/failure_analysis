@@ -36,15 +36,15 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
     1. Programación con el software de Microsoft Excel:
 
 
-        1. Identificación de las posibles causas de daños en los rodamientos de acuerdo con el documento Bearing Doctor NSK (Tabla 1.0)
+        1. Identificación de las posibles causas de daños en los rodamientos de acuerdo con el documento Bearing Doctor NSK ([Tabla 1.0](#anexo1)) 
 
-        2. Conteo de las causas mediante el software Microsoft Excel, obteniendo los valores de frecuencias relativas mostrados en la tabla  (Tabla 1.1)
+        2. Conteo de las causas mediante el software Microsoft Excel, obteniendo los valores de frecuencias relativas mostrados en la tabla  ([Tabla 1.1](#anexo2)) 
 
-        3. Obtenemos un gráfico de barras, para una mayor compresión de las causas más relevantes que producen daños a los rodamiento (Imagen 1.0)
+        3. Obtenemos un gráfico de barras, para una mayor compresión de las causas más relevantes que producen daños a los rodamiento ([Imagen 1.0](#anexo4)) 
 
-        4. Realizamos un cuadro de frecuencias relativas acumuladas (Tabla 1.2) para identificar, de acuerdo a Pareto, cuáles son nuestras causas que impactan más al daño de rodamientos, valiéndose al principio de la regla 80/20.
+        4. Realizamos un cuadro de frecuencias relativas acumuladas ([Tabla 1.2](#anexo3))  para identificar, de acuerdo a Pareto, cuáles son nuestras causas que impactan más al daño de rodamientos, valiéndose al principio de la regla 80/20.
 
-        5. Con los datos obtenidos anteriormente, obtenemos nuestro diagrama de Pareto (Imagen 1.1).
+        5. Con los datos obtenidos anteriormente, obtenemos nuestro diagrama de Pareto ([Imagen 1.1](#anexo5)) .
 
     2. Programación con el software Colaboratory de Google:
         1. Link del archivo editable: https://colab.research.google.com/drive/1Ul8S_w9P0jXl4GR_hopKUdUbMTHdk5RV?usp=sharing
@@ -61,7 +61,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 
 7. Anexos
 
-* Tabla 1.0 - Agrupación por SÍNTOMA/CAUSA
+*  <a name="anexo1"></a> Tabla 1.0 - Agrupación por SÍNTOMA/CAUSA
 
 | **COMPONENTE** | **SÍNTOMA**                                    | **CAUSA RESUMEN**      | **CAUSA COMPLETA**                                         |
 |----------------|------------------------------------------------|------------------------|------------------------------------------------------------|
@@ -148,7 +148,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 | 7.12.4         | Desgaste                                       | Vibración              | Vibraciones de origen                                      |
 
 
-* Tabla 1.1 - Frecuencias Relativas
+* <a name="anexo2"></a> Tabla 1.1 - Frecuencias Relativas
 
 | **CAUSA**              | **FRECUENCIA** |
 |------------------------|----------------|
@@ -163,7 +163,7 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 
 
 
-* Tabla 1.2 - Frecuencias Relativas Acumuladas
+* <a name="anexo3"></a> Tabla 1.2 - Frecuencias Relativas Acumuladas
 
 | **Causa**              | **Frecuencia Acumulada** | **Frecuencia Relativa** | **Frecuuencia Relativa Acumulada** |
 |------------------------|--------------------------|-------------------------|------------------------------------|
@@ -176,10 +176,10 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
 | Aceleraciones          | 2                        | 2,47%                 | 100,00%                          |
 
 
-* Imagen 1.0
+* <a name="anexo4"></a> Imagen 1.0
 
 ![alt text](./resumen_causas.png "Resumen de causas")
 
-* Imagen 1.1 
+* <a name="anexo5"></a> Imagen 1.1 
 
 ![alt text](./diagrama_pareto_excel.png "Diagrama de Pareto")
