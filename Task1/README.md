@@ -50,14 +50,16 @@ Cuando un rodamiento se danifica durante la operación, la máquina o equipo pue
         1. Link del archivo editable: [Colab Google](https://colab.research.google.com/drive/1Ul8S_w9P0jXl4GR_hopKUdUbMTHdk5RV?usp=sharing)
         2. Link del repositorio en Github: [Github Repository](https://github.com/mizhac/failure_analysis/blob/master/Task1/soluciones/analisis_causa_raiz.ipynb)
 5. Conclusiones
-    * asd
-    * asdad
-    * asdad
-    * asdasdsad
-    * asdasdasd
+    * Se logro identificar los síntomas y causas de daños en rodamientos a través de la documentación provista por el fabricante. Esta nos permitió agrupar los eventos de falla en base a causas comunes determinadas por el fabricante.
+    * Se realizo el análisis de los datos en base a agrupaciones determinadas por causas comunes de fallas en rodamientos. Estas nos permitieron aplicar un análisis matemático que se determina por el monitoreo de frecuencias absolutas, relativas y acumuladas.
+    * Se logro realizar y obtener resultados equitativos al generar los diagramas de Pareto utilizando dos herramientas tecnológicas diferentes. La primera herramienta para utilizar fue Excel de Microsoft que nos permitió realizar el flujo a través de la introducción de datos en las tablas y la generación de tablas dinámicas. La segunda herramienta a utilizar fe Colaboratory de Google que nos permitió realizar análisis de los datos a través del parseo de los datos en memoria y la utilización de fórmulas matemáticas.
+    * Se determinaron que las causas más frecuentes de los eventos de falla en rodamiento son por 3 causas: Lubricación, Instalación y Carga cuyos valores representan el 80% del total de incidencias.
+
 
 6. Bibliografía
 
+* Google. (2021). Welcome to Colab. 05/20/2022, de Google Cloud Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
+* NSK. (2004). Diagnóstico Rápido de Fallas en Rodamientos. 05/20/2022, de NSK Automation Sitio web: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=es)
 
 7. Anexos
 
